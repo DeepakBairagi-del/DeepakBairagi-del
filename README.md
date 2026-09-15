@@ -213,7 +213,7 @@ I'm always interested in challenging engineering problems, especially
 around SaaS, cloud infrastructure, AI, developer tooling and products
 that need to scale reliably.
 
-**LinkedIn:** [Deepak Bairagi](linkedin.com/in/deepak-bairagi-586b641a9)
+**LinkedIn:** [Deepak Bairagi](https://linkedin.com/in/deepak-bairagi-586b641a9)
 
 **Portfolio:** [deepakbairagi.dev](DeepakBairagi.dev)
 
